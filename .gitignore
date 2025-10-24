@@ -282,7 +282,6 @@ $RECYCLE.BIN/
 
 openaiold
 .idea
-.env
 venv/
 
 
